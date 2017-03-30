@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LALALA</string>
+    <string name="hello">您选择的答案 ：</string>
+    <string name="question">The Williams live__188 Fleet Street.</string>
+    <string name="Y">确定</string>
+    <string name="N">取消</string>
+    <string name="other">otherActivity</string>
+</resources>
